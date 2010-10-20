@@ -1,0 +1,49 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+	<!--
+		<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="Android Dining,
+		Version 1.0" android:layout_gravity="center"
+		android:layout_marginBottom="10dip"></TextView> <TextView
+		android:id="@+about/textview1" android:layout_width="fill_parent"
+		android:layout_height="fill_parent" android:text="this is a tab" />
+	-->
+
+	<LinearLayout android:id="@+about/tab_devs"
+		android:layout_height="wrap_content" android:orientation="vertical"
+		android:layout_width="fill_parent" android:paddingTop="10dip">
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="Campus Maps - v1.0"
+			android:textSize="17dip" android:layout_gravity="center"></TextView>
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:text="Developers"
+			android:textSize="16dip" android:paddingTop="15dip"
+			android:paddingLeft="5dip"></TextView>
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:id="@+about/dev_names"
+			android:bufferType="spannable" android:text="devs"
+			android:paddingLeft="15dip"></TextView>
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:padding="5dip"
+			android:textSize="16dip" android:text="Group Leaders"></TextView>
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:bufferType="spannable"
+			android:text="devs" android:paddingLeft="15dip"
+			android:id="@+about/student_leader_names" android:autoLink="all"></TextView>
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:padding="5dip"
+			android:textSize="16dip" android:text="Faculty Leaders"></TextView>
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:bufferType="spannable"
+			android:text="devs" android:paddingLeft="15dip"
+			android:id="@+about/faculty_leader_names"></TextView>
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:padding="5dip"
+			android:textSize="16dip" android:text="Contributors"></TextView>
+		<TextView android:layout_width="wrap_content"
+			android:layout_height="wrap_content" android:bufferType="spannable"
+			android:text="devs" android:paddingLeft="15dip" android:id="@+about/contributor_names"></TextView>
+	</LinearLayout>
+
+
+
+</merge>

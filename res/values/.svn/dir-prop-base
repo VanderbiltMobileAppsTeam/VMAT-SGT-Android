@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 52
+GoogleAPI.xml
+googleapi.xml
+apiKey.xml
+maps_api.xml
+
+END

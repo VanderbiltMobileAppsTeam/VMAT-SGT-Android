@@ -1,0 +1,22 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+	<ScrollView android:id="@+about/tab_vmat"
+		android:layout_height="wrap_content" android:layout_width="fill_parent">
+
+		<LinearLayout android:id="@+id/LinearLayout01"
+			android:layout_height="wrap_content" android:orientation="vertical"
+			android:layout_width="fill_parent" android:paddingTop="10dip">
+
+			<TextView android:layout_height="wrap_content"
+				android:text="Vanderbilt Mobile Application Team"
+				android:layout_gravity="center" android:typeface="serif"
+				android:textSize="16dip" android:paddingBottom="10dip"
+				android:layout_width="fill_parent"></TextView>
+
+			<TextView android:layout_height="wrap_content" android:text="@string/about_VMAT_Desc"
+				android:padding="4dip" android:layout_width="fill_parent"
+				android:layout_gravity="center" />
+		</LinearLayout>
+	</ScrollView>
+
+</merge>

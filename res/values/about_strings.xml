@@ -1,0 +1,50 @@
+<resources>
+	<string name="about_VMAT_Desc">The Vanderbilt Mobile Application Team (or VMAT for
+		short) is committed to bringing high quality mobile applications to
+		Vanderbilt University (Nashville, TN, USA). We encourage all those
+		interested in learning mobile development to join our group. All of
+		our work is open source, and can be found at
+		http://code.google.com/p/vuphone. We are highly committed to
+		developing quality practical applications in a timely manner, and the
+		open source, interconnected nature of our development process allows
+		an advancement in one application to produce positive effects in many
+		others.
+
+
+		Additionally, our work has multiple implications above and
+		beyond general purpose mobile applications to improve quality of life
+		at Vanderbilt. Many of our projects transform into cutting edge
+		research work as students progress towards a research track. On top of
+		research potential, our group trains multiple students in advanced
+		mobile development, allowing Vanderbilt to have a ready pool of
+		capable developers for various special purpose projects. This group of
+		talented individuals helps to increase Vanderbilt's technological advancement and web + mobile presence.
+
+		We currently work with the iPhone and Android platforms, but are always willing to work with new platforms.
+
+		If you are interested in programming for a particular platform, we would be more than happy to have you join our group, and we would help you succeed in any way possible.
+
+		Please contact any of the Faculty Leaders listed on this application if you are interested.
+	</string>
+
+	<string-array name="about_developers">
+		<item>Kyle Prete (Team Leader)</item>
+		<item>Adam Albright</item>
+		<item>Kyle Liming</item>
+	</string-array>
+	
+	<string-array name="student_leaders">
+		<item>Hamilton Turner</item>
+		<item>Aaron Thompson</item>
+	</string-array>
+	
+	<string-array name="faculty_leaders">
+		<item>Doug Schmidt - d.schmidt@vanderbilt.edu</item>
+		<item>Jules White - jules.white@vanderbilt.edu</item>
+	</string-array>
+
+	<string-array name="contributors">
+		<item>Various Others</item>
+	</string-array>	
+	
+</resources>
