@@ -293,6 +293,11 @@ public class Main extends MapActivity {
 
 	public void testPathOverlay() {
 
+		
+		/**
+		 * This looks useful for our pathfinding. IT seems they might have already
+		 * implemented it.
+		 */
 		// Just some demo paths to test for now
 		poLayer_.StartNewPath(new GeoPoint(36144875, -86806723));
 		poLayer_.AddPoint(new GeoPoint(36146071, -86804298));
