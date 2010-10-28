@@ -2,6 +2,6 @@
 <resources>
     <string name="hello">Hello World, Main!</string>
     <string name="app_name">Campus Map</string>
-    <!-- ERROR: apiKey value required. -->
+    <string name="apiKey">00LHR4rnfG2W0frxmWnonR_zhsNbICaF4q3DY2Q</string>
     <string name="building_image_url">http://www.vanderbilt.edu/map/</string> 
 </resources>

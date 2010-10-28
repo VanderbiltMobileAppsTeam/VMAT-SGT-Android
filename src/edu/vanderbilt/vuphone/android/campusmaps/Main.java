@@ -79,6 +79,10 @@ public class Main extends MapActivity {
 
 		setContentView(R.layout.main);
 		mapView_ = (MapView) findViewById(R.id.mapview);
+		
+		//mapView_.getZoomControls();
+		
+		
 		mapView_.setBuiltInZoomControls(false);
 
 		poLayer_ = new PathOverlay(mapView_);
